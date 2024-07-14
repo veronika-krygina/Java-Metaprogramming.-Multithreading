@@ -1,0 +1,12 @@
+
+Ÿ
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÜˆşÍùÿÿÿÿ8Ë¹à€2J$fc61af16-04d6-4c99-a8ae-72b1047d772b
+•
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(“–ış8œºà€2J$153049b4-c5e5-47a1-a978-830b2a194124
+¡
+java:S2142m"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8·ºà€2J$8cf2711e-04d2-48b5-9eaa-42a8b02ca240
+©
+java:S2178c"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(±€Ù8Éºà€2J$d0a17b0e-edff-413c-92a0-d7ee482a517c
+¡
+java:S2142r"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¡ÔÇ8Ôºà€2J$79f4e9bc-4ec3-47d9-91d6-5cdc36aa1a0d
+q	java:S108Ï")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ8¡»à€2J$db929d03-474c-4ba5-a58c-7e0d44b71784

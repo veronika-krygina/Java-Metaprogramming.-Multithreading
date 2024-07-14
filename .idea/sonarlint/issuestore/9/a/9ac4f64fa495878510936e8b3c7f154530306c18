@@ -1,0 +1,13 @@
+
+	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¦Á›×ƒ2J$847f4607-8461-46c6-94f2-d39f84f8dab4
+r	java:S106"+Replace this use of System.out by a logger.(ÄÖô¬üÿÿÿÿ8ÍÁ›×ƒ2J$1a248aac-154d-4870-9b76-643fcbee2dd7
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÏÁ›×ƒ2J$5baa6e01-c092-482e-9b64-80632c374d24
+r	java:S106"+Replace this use of System.out by a logger.(ìŸüĞùÿÿÿÿ8ĞÁ›×ƒ2J$d74e64a5-d0b4-4764-b5bf-10c69dcc8e2e
+r	java:S106)"+Replace this use of System.out by a logger.(†åİùÿÿÿÿ8×Á›×ƒ2J$f8ee9ff0-d929-45ea-9651-2720264a6174
+¡
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8×Á›×ƒ2J$439b21b8-f72a-4fc5-ad3e-00589c00d236
+m	java:S1063"+Replace this use of System.out by a logger.(ïÌ®•8ÛÁ›×ƒ2J$62d67e35-168c-4b3c-8a30-e245e25bae15
+r	java:S1069"+Replace this use of System.out by a logger.(Ì²«×ÿÿÿÿÿ8ÜÁ›×ƒ2J$7ede4f60-cdc1-4a75-a6bf-27285b986c38
+¡
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ãÁ›×ƒ2J$5dee0714-03a8-4227-833b-171e7986d36f
